@@ -1,4 +1,4 @@
-# Hello, folks! TryHackMe Walkthroughs Links Below:<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Heyo! TryHackMe Walkthroughs Links Below:<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 -> TryHackMe Room Walkthroughs
 
 # Blue Walkthrough
