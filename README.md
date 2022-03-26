@@ -6,3 +6,6 @@ https://azt3c.medium.com/blue-walkthrough-thm-dbd0a5af36f6
 
 # Vulnversity Walkthrough
 https://azt3c.medium.com/vulnversity-walkthrough-thm-d59a373dbdb8
+
+# RootMe Walkthrough
+https://azt3c.medium.com/rootme-walkthrough-thm-809c0b22d943
