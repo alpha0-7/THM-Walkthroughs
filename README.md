@@ -1,4 +1,4 @@
-# Heyo! TryHackMe Walkthroughs Links Below:<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Heyo! TryHackMe Walkthroughs Links Below:
 -> <a href="https://tryhackme.com/">TryHackMe</a> Room Walkthroughs
 
 # Blue Walkthrough:
